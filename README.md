@@ -19,4 +19,4 @@
 ### 1. Клонирование репозитория
 Склонируйте проект в вашу локальную среду:
 ```bash
-git clone <URL репозитория>
+git clone <(https://github.com/Nipplexxx/Magazin_desktop/tree/master)>
